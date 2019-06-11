@@ -1,0 +1,27 @@
+{
+  "name": "wechatrobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csonchen/wechatRobot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csonchen/wechatRobot/issues"
+  },
+  "homepage": "https://github.com/csonchen/wechatRobot#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "file-box": "^0.8.27",
+    "node-schedule": "^1.3.2",
+    "qrcode-terminal": "^0.12.0",
+    "superagent": "^5.0.6",
+    "wechaty": "^0.26.1"
+  }
+}
