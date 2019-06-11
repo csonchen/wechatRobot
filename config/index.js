@@ -1,10 +1,10 @@
 module.exports = {
-  NAME: 'Sam',
-  NICKNAME: '胜',
+  NAME: 'tiger-root',
+  NICKNAME: 'tiger-root',
   MEMORIAL_DAY: '2018/02/02',
-  CITY: 'shenzhen',
+  CITY: 'guangdong',
   LOCATION: 'nanshan-district',
-  SENDDATE: '0 0 8 * * *',
+  SENDDATE: '52 52 14 * * *',
   ONE: 'http://wufazhuce.com',
   MOJI_HOST: 'https://tianqi.moji.com/weather/china/',
 
